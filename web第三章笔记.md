@@ -98,7 +98,7 @@ background-image:linear- gradient(渐变角度,颜色值1,颜色 值2...,颜色�
 # 3.第3章-3-CSS盒子模型&定位&动画等
 
 ## 1.CSS盒子模型
-<img src= "https://github.com/xietong1027/github-web/blob/master/W3C%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B.png" )
+<img src= "https://github.com/xietong1027/github-web/blob/master/W3C%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B.png" /)
 ### 1.W3C盒子模型
 ![](C:\Users\DELL\Desktop\web\W3C盒子模型.png)
 ### 2.空格
