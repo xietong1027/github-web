@@ -6,9 +6,9 @@
 
 href属性：链接的外部样式表的URL。
 type属性：定义所链接文档的类型，"text/css"表示链接的文档是css样式表。
-**rel** 属性：规定当前文档与被链接文档之间的关系。rel="stylesheet"表示被 
+<font color =red >rel 属性</font>：规定当前文档与被链接文档之间的关系。rel="stylesheet"表示被 
 链接的是一个样式表文档。//rel属性不可省略
-优先级：行内样式优先级>内嵌式>外联样式表
+优先级：<font color =red >行内样式优先级>内嵌式>外联样式表</font>
 
 #### 2.选择器
 
@@ -203,7 +203,7 @@ flex-growL<number>;/*default 0*/
 ### 6.CSS3变形
 #### 1.变形属性-transform
 
-##### 1.transform-origin 改变元素原点位置 x-axis;y-axis;z-axis
+##### 1.transform-origin 改变元素原点位置 <font color =red>x-axis;y-axis;z-axis</font>
 
 ##### 2.使用rotate(angle)定义元素旋转角度
 
