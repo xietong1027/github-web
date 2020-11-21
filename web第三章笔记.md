@@ -4,17 +4,15 @@
 
 ### 1.链入式
 
-```html
 href属性：链接的外部样式表的URL。
 type属性：定义所链接文档的类型，"text/css"表示链接的文档是css样式表。
-rel 属性：规定当前文档与被链接文档之间的关系。rel="stylesheet"表示被 
+**rel** 属性：规定当前文档与被链接文档之间的关系。rel="stylesheet"表示被 
 链接的是一个样式表文档。//rel属性不可省略
 优先级：行内样式优先级>内嵌式>外联样式表
-```
 
 #### 2.选择器
 
-```
+```html
 1.<style>
 #red{
 color:#f00;
@@ -107,13 +105,13 @@ background-image:linear- gradient(渐变角度,颜色值1,颜色 值2...,颜色�
 ## 2.CSS3新增盒模型属性
 ### 1.padding定义设置的顺序//border-radiu//border相同
 #### 1.各个分数性依次顺时针方向设置填充上边剧、右边距、下边距、左边距
-```html
+
 padding:padding-top ; padding-right ; padding-bottom ; padding -left
-```
+
 ### 2.border定义顺序
-```html
+
 border:3px dotted red ;/*边框粗细 边框样式 边框颜色 */
-```
+
 ### 3.box-shadow
 #### 1.阴影水平偏移值h-shadow和阴影垂直偏移值v-shadow为必选参数值不能省略
 ### 4.背景图的处理
@@ -231,9 +229,7 @@ flex-growL<number>;/*default 0*/
 
 #### 2.transition 和animation区别
 
-```html
-transition只能通过指定属性的开始值与结束值，通过两属性值之间进行平滑过渡的方式来实现动画效果，所以transition不能实现复杂的动画，而animation允许创建多个关键帧，通过对每个关键帧设置不同的属性值，实现复杂的动画效果
-```
+**transition**只能通过指定属性的开始值与结束值，通过两属性值之间进行平滑过渡的方式来实现动画效果，所以transition不能实现复杂的动画，而animation允许创建多个关键帧，通过对每个关键帧设置不同的属性值，实现复杂的动画效果
 
 
 
